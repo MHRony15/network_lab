@@ -26,9 +26,7 @@ public class SMTPmailClient {
 		pw.println("QUIT");
 		System.out.println("Responce6: " + br.readLine());
 		System.out.println("Responce7: " + br.readLine());
-		
-		
-		
+
 
 	}
 
