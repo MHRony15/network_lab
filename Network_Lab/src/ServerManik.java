@@ -18,7 +18,7 @@ public class ServerManik{
 		BufferedOutputStream bos = new BufferedOutputStream(fos);
 		PrintWriter out = new PrintWriter(sock.getOutputStream(), true);
 		String FileName = in.nextLine();
-		int FileSize = in.nextInt().
+		int FileSize = in.nextInt();
 		byte[] bytearray = new byte[FileSize];
 		
 		int filebyte = is.read(bytearray, 0, bytearray.length);
