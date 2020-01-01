@@ -8,6 +8,7 @@
     * Green
     * Brown White
     * Brown
+2. Assigning and checking IP configuration of a machine.
 3. Checking connectivity in between two nodes (using ping command).
 4. Windows file/folder/printer sharing.
 5. Configuring a DHCP server (openDHCP).
